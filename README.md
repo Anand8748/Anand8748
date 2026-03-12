@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋, I'm Anand Hatti
+  Hi , I'm Anand Hatti
 </h1>
 
 <h3 align="center">
