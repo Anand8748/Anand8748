@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=200&section=header&text=Anand%20Hatti&fontSize=40&fontColor=ffffff"/>
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Anand Hatti</h1>
 
@@ -25,20 +27,17 @@
 # 🚀 Featured Projects
 
 ### 🏏 IPL Data Analytics Project
-
 - End-to-end **data analytics pipeline**
 - Data cleaning, preprocessing, and **EDA**
 - Visualization of player & team performance
 - Interactive insights using **Power BI / Python**
 
 ### 📊 Online Retail Data Analysis
-
 - Customer purchase behavior analysis
 - Sales trend exploration
 - Statistical insights using **Python & Pandas**
 
 ### 🌪 US Tornado Data Analysis (1950–2021)
-
 - Historical data analysis
 - Trend detection & visualization
 - Data-driven insights using Python
@@ -48,31 +47,26 @@
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
 ## 📊 Data Science & Machine Learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
 </p>
 
 ## 📈 Data Visualization
-
 <p>
 <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
 </p>
 
 ## 🗄️ Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## ⚙️ Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
@@ -94,9 +88,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand8748&layout=compact&theme=radical"/>
-
 </p>
 
 ---
