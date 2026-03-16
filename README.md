@@ -57,6 +57,8 @@
 
 ## 📈 Data Visualization
 
+## 📈 Data Visualization
+
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50"/>
