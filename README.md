@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anand%20Hatti&fontSize=45&fontAlign=50&fontAlignY=40&color=0:141E30,100:243B55&fontColor=ffffff"/>
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Anand Hatti</h1>
 
@@ -56,19 +57,11 @@
 </p>
 
 ## 📈 Data Visualization
-
-## 📈 Data Visualization
-
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50"/>
-
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="50" height="50"/>
-
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="50" height="50"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45"/>
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45"/>
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="45"/>
 </p>
 
 ## 🗄️ Databases
