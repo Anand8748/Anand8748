@@ -1,96 +1,104 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi , I'm Anand Hatti
-</h1>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Anand Hatti</h1>
 
 <h3 align="center">
-  🚀 B.Tech CSE (AIML) Student | Data Analytics Enthusiast | ML Explorer
+🚀 B.Tech CSE (AIML) Student | Data Analytics Enthusiast | Machine Learning Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Building+Real-World+Analytics+Projects;Passionate+About+Data+Driven+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Building+Real-World+Analytics+Projects;Passionate+About+Data+Driven+Solutions" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (AIML)
-- 📊 Currently building **End-to-End IPL Data Analytics Project**
-- 🤖 Exploring Machine Learning & Real-world Case Studies
-- 📈 Strong interest in Data Analytics & AI Systems
-- 🌱 Continuously learning and improving problem-solving skills
-- 🎯 Goal: Become a Data Scientist / AI Engineer
+- 🎓 B.Tech in **Computer Science & Engineering (AIML)**
+- 📊 Currently building an **End-to-End IPL Data Analytics Project**
+- 🤖 Exploring **Machine Learning & Real-World Case Studies**
+- 📈 Strong interest in **Data Analytics, AI Systems & Predictive Modeling**
+- 🌱 Continuously learning **Data Science, ML, and Analytics Tools**
+- 🎯 Goal: **Become a Data Scientist / AI Engineer**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏏 IPL Data Analytics Project
-- End-to-end data analysis
-- Data Cleaning, EDA, Visualization
-- Performance Insights & Dashboard
+- End-to-end **data analytics pipeline**
+- Data cleaning, preprocessing, and **EDA**
+- Visualization of player & team performance
+- Interactive insights using **Power BI / Python**
 
 ### 📊 Online Retail Data Analysis
-- Sales trend analysis
-- Customer behavior insights
-- Statistical modeling
+- Customer purchase behavior analysis
+- Sales trend exploration
+- Statistical insights using **Python & Pandas**
 
-### 🌪 US Tornado Data Analysis
-- Historical data analysis (1950–2021)
-- Trend detection & visualization
+### 🌪 US Tornado Data Analysis (1950–2021)
+- Historical weather dataset analysis
+- Trend detection & pattern discovery
+- Data visualization and insights
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming
+## 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-### 📊 Data & ML
+## 📊 Data Science & Machine Learning
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
 </p>
 
-### 📈 Data Visualization
+## 📈 Data Visualization
+
 <p>
 <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙️ Tools & Platforms
+## ⚙️ Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
+
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-Add this to show contribution snake:
+# 🐍 Contribution Snake Animation
 
 ```markdown
 ## 🐍 Contribution Graph
