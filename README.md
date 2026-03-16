@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anand%20Hatti&fontSize=45&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=scaleIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anand%20Hatti&fontSize=45&fontAlign=50&fontAlignY=40&color=0:141E30,100:243B55&fontColor=ffffff"/>
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Anand Hatti</h1>
 
