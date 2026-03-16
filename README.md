@@ -80,9 +80,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anand8748&show_icons=true&theme=radical" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand8748&theme=radical" height="165"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand8748&layout=compact&theme=radical"/>
 
 </p>
 
@@ -103,4 +103,4 @@
 ```markdown
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anand8748/Anand8748/blob/output/github-contribution-grid-snake.svg)
