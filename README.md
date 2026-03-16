@@ -57,11 +57,13 @@
 </p>
 
 ## 📈 Data Visualization
+## 📈 Data Visualization
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45"/>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45"/>
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
 </p>
 
 ## 🗄️ Databases
