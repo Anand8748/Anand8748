@@ -25,20 +25,23 @@
 # 🚀 Featured Projects
 
 ### 🏏 IPL Data Analytics Project
+
 - End-to-end **data analytics pipeline**
 - Data cleaning, preprocessing, and **EDA**
 - Visualization of player & team performance
 - Interactive insights using **Power BI / Python**
 
 ### 📊 Online Retail Data Analysis
+
 - Customer purchase behavior analysis
 - Sales trend exploration
 - Statistical insights using **Python & Pandas**
 
 ### 🌪 US Tornado Data Analysis (1950–2021)
-- Historical weather dataset analysis
-- Trend detection & pattern discovery
-- Data visualization and insights
+
+- Historical data analysis
+- Trend detection & visualization
+- Data-driven insights using Python
 
 ---
 
@@ -98,9 +101,26 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-```markdown
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/Anand8748/Anand8748/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/Anand8748">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mt-anand/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Turning data into meaningful insights and intelligent systems.**
