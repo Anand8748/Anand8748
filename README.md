@@ -56,14 +56,20 @@
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
 </p>
 
-## 📈 Data Visualization
+
+
 ## 📈 Data Visualization
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original-wordmark.svg" width="50"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
+
 </p>
 
 ## 🗄️ Databases
